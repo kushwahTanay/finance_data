@@ -1,0 +1,31 @@
+date,amount,category,description
+17-07-2024,400.0,Expense,cloths(shirt)
+24-07-2024,2000.0,Expense,Birth day party
+17-07-2024,320.0,Expense,medicines
+17-07-2024,30.0,Expense,coffee
+17-07-2024,200.0,Expense,vegetables
+17-07-2024,100.0,Expense,lunch
+12-06-2024,10000.0,Income,winning prize
+17-07-2024,20.0,Expense,milk
+01-01-2023,500.0,Income,Salary
+02-01-2023,200.0,Expense,Grocery
+05-01-2023,150.0,Expense,Restaurant
+10-01-2023,1000.0,Income,Freelance
+15-01-2023,250.0,Expense,Utilities
+20-01-2023,300.0,Expense,Transport
+25-01-2023,700.0,Income,Bonus
+30-01-2023,100.0,Expense,Entertainment
+05-02-2023,400.0,Income,Investment
+10-02-2023,300.0,Expense,Clothing
+15-02-2023,500.0,Income,Salary
+20-02-2023,200.0,Expense,Groceries
+25-02-2023,250.0,Expense,Utilities
+28-02-2023,100.0,Expense,Medical
+01-03-2023,500.0,Income,Freelance
+05-03-2023,100.0,Expense,Transport
+10-03-2023,300.0,Expense,Restaurant
+15-03-2023,700.0,Income,Salary
+20-03-2023,200.0,Expense,Grocery
+25-03-2023,250.0,Expense,Utilities
+30-03-2023,100.0,Expense,Entertainment
+
